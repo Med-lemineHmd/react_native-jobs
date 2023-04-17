@@ -1,4 +1,7 @@
 # Expo Router Example
+![smartmockups_lgky4jqx](https://user-images.githubusercontent.com/76164295/232521691-7944508b-8e5b-46ee-8270-8bb87c91071e.png)
+
+
 
 Use [`expo-router`](https://expo.github.io/router) to build native navigation using files in the `app/` directory.
 
